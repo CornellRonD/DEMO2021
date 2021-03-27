@@ -2,3 +2,5 @@
 # coolscript.sh
 
 echo "Welcome to coolscript.sh!"
+echo "Coolscript.sh was called with $# arguments"
+
